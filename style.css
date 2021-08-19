@@ -1,0 +1,78 @@
+body{
+    font-family: 'Zen Tokyo Zoo', cursive;  
+    background: linear-gradient(to right top, #348feb, #4634eb, #9b34eb, #504aff, #5c9aff);
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    background: linear-gradient(#4634eb 0%, #9b34eb 100%);
+    color: white;
+}
+.heading_div{
+    float: none ; 
+    background: linear-gradient(#4634eb 0%, #9b34eb 100%);
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div2{
+    font-size: 20px;
+    color: white;
+
+}
+
+.p_tag{
+    box-shadow: 5px 5px 5px whitesmoke;
+    font-size: 20px;
+    width: 200px;
+    color: white;
+    background: #4260f5;
+    border-radius: 10px;
+}
+
+.i_tag{
+    box-shadow: 5px 5px 5px grey;
+    font-size: 30px;
+}
+
+.copyright_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background: linear-gradient(#4634eb 0%, #9b34eb 100%);
+    line-height: 3;
+    text-align: center;
+
+}
+.main_div{
+    background: linear-gradient(#4634eb 0%, #9b34eb 100%);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+    box-shadow: 5px 5px 5px whitesmoke;
+    border-radius: 25px;
+    width: 1000px;
+}
+.result_div h4{
+    background: #8742f5 ;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 5px whitesmoke;
+    color: white;
+}
+
+.result_div{
+    margin-bottom: 50px;
+    
+}
+
+img{
+    border-radius: 25px;
+    width: 370px;
+    height: 300px;
+}
